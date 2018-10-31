@@ -14,7 +14,7 @@ Use p10_pinout.png to wireup your display from arduino.
 
 ## Library features:
  
-Can drive up to 320×16 pixels (10 Panels connected in cascade).
+Can drive up to 320×16 pixels (10 Panels connected in cascade).adawd
 
 Supports dual line display, i.e. one panel divided into two.
 
